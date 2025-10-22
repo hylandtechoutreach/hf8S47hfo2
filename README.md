@@ -6,3 +6,5 @@ You must find the four digits scattered throughout these projects.
 [squirrels](https://trinket.io/pygame/3094f7c20f93)
 
 [embers-2](https://hytop.onrender.com/e/embers-2)
+
+[minor chord progression](https://tunepad.com/project/117468)
