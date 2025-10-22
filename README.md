@@ -32,10 +32,10 @@ Not every project will give you a digit.
 
 If a project does contain a digit, it might be revealed in a pattern similar to this:
 
->B1 is {DIGIT}
->B2 is {DIGIT}
->B3 is {DIGIT}
->B4 is {DIGIT}
+>B1 is {DIGIT}  
+>B2 is {DIGIT}  
+>B3 is {DIGIT}  
+>B4 is {DIGIT}  
 
 Where "B1" means the first digit of the combination, "B2" means the second digit, etc.
 
